@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 🎓 B.Tech IT Student  
 💻 Web Developer | DSA Learner  
 🚀 Learning MERN Stack
+🙌🏻 Enthusiastic for-**OPEN SOURCE CONTRIBUTIONS** 
 
 ## 🙋‍♂️ About Me
 - 🌱 Currently learning **MERN Stack**
