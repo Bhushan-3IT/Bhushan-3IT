@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan-3IT&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhushan-3IT&theme=dark)
