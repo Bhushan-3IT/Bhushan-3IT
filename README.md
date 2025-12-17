@@ -35,3 +35,9 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats
+![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhushan-3IT&show_icons=true&theme=dark)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan-3IT&layout=compact&theme=dark)
