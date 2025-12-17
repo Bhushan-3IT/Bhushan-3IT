@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎯 Goal: Crack good tech role by 2026
 
   ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([ht](https://github.com/Bhushan-3IT))
 
 ## 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
